@@ -60,7 +60,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/data-structures-c-cpp.git
+git clone https://github.com/Arihantv58/Data-Structures.git
 Navigate to the data structure you're interested in, e.g., data-structures-c-cpp/stacks.
 
 Compile and run the C or C++ files to see the implementations in action or integrate them into your own C or C++ projects as needed.
